@@ -66,27 +66,14 @@ Ensure you have the following prerequisites installed on your system. You can ve
 	sail artisan migrate
 	```
 
-6. Compile assets and run the Vue frontend:
+6. Seed the database with test data:
 
-	```bash
-	npm run dev
-	```
+   ```bash
+    sail artisan db:seed
+   ```
 
-## Usage
+7. Compile assets and run the Vue frontend:
 
-### Live Sessions
-
-Start or join a Live Session using a Session ID and an optional passcode to share music with others. You can view incoming song requests from other participants and search for songs to request from them.
-
-### Bands
-
-Bands in AirQueue make it easy to share music and start Live Sessions with friends. You can join a Band via an invitation from the owner or create your own Band and invite others to share music together.
-
-### Song Requests
-
-When you receive a song request, you can choose to approve or deny it. Denying a request removes it from your queue, while approving a request adds the song to your live Spotify player’s queue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
-
+   ```bash
+   npm run dev
+   ```
