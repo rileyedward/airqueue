@@ -1,6 +1,23 @@
 # AirQueue
 
+Share music with your friends using Live Sessions!
+
+## Overview
+
+### What is AirQueue?
+
 AirQueue is a platform designed to enhance your music-sharing experience with friends through interactive Live Sessions. Integrating seemlessly with the Spotify Developer API to search for songs, as well as interact with the user's Spotify account.
+
+### Why Use AirQueue?
+
+Sharing music should be fun, social, and interactive! Whether it’s for a party, road trip, or just hanging out, AirQueue enhances the way you share and enjoy music together.
+
+### Key Features
+
+- **Spotify Integration**: Connect your AirQueue account with Spotify to properly use the application.
+- **Bands**: Join a "band" with other members to aggregate a large group of like-minded music friends.
+- **Live Sessions**: Host or join a session with your friends to begin searching and requesting songs for them to listen to.
+- **Song Requests**: Approve incoming song requests to then be added to your live Spotify's player queue.
 
 ## Getting Started
 
